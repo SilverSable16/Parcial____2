@@ -1,0 +1,11 @@
+﻿  Examen_2.cpp
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(20,23): error C2535: 'void Estudiantes::setNit(int)': member function already defined or declared
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(19): message : see declaration of 'Estudiantes::setNit'
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(25,32): error C2535: 'void Estudiantes::setDireccion(std::string)': member function already defined or declared
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(23): message : see declaration of 'Estudiantes::setDireccion'
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(26,31): error C2535: 'void Estudiantes::setDireccion(std::string)': member function already defined or declared
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(23): message : see declaration of 'Estudiantes::setDireccion'
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(27,26): error C2535: 'void Estudiantes::setTelefono(int)': member function already defined or declared
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Estudiantes.h(24): message : see declaration of 'Estudiantes::setTelefono'
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Examen_2.cpp(29,124): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Estudiantes'
+C:\Users\JPonce\Desktop\parcial 2\Examen_2\Examen_2\Examen_2.cpp(29,124): message : No constructor could take the source type, or constructor overload resolution was ambiguous
